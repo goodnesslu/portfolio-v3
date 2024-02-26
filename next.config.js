@@ -59,7 +59,7 @@ const securityHeaders = [
  **/
 module.exports = () => {
   const nextConfig = {
-    output: 'export',
+    // Remove `output: 'export'` to fix next export error on GitHub Pages
     target: 'experimental-serverless-trace',
   }
 
