@@ -9,7 +9,7 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://goodnesslu.com',
   siteRepo: 'https://github.com/goodnesslu/portfolio-v2',
-  siteLogo: '/static/images/logo.png',
+  siteLogo: './static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
   mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'hello@goodnesslu.com',
